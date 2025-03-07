@@ -2,6 +2,9 @@
 
 ![AI Directory Banner](https://images.unsplash.com/photo-1693314295100-bb5b134a9e42?auto=format&fit=crop&q=80&w=1200)
 
+![Capture d’écran du 2025-03-07 21-44-18](https://github.com/user-attachments/assets/faa11477-117c-4003-ad07-87c5a8d5ad6c)
+
+
 ## 🌟 Vision
 
 AI Directory est une plateforme révolutionnaire qui centralise et démocratise l'accès aux outils d'intelligence artificielle. Notre mission est de créer un pont entre les utilisateurs et les technologies IA les plus innovantes, rendant leur découverte et leur utilisation aussi simple qu'intuitive.
